@@ -17,7 +17,7 @@ function App() {
       <div className="wrapper">
         <img className = "headerImage" src={Oberland} alt="Oberland"></img>
         <h1>Das war<br/>2019</h1>
-        <div className="lead">Der Jahresrückblick für das Berner Oberland.</div>
+        <div className="lead">Der Jahresrückblick für das Berner Oberland</div>
         <Stream />
         <Footer />
       </div>
